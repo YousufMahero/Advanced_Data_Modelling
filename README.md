@@ -16,7 +16,7 @@ Course Organiser: Dr Xuefei Lu
 
 [<img align="left" alt="Maher | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br /><br />
-[Yusuf Mahir Nartok](mailto:yusufmahirnartok@gmail.com?subject=[GitHub]%20Disseration%20Code)
+[Yusuf Mahir Nartok](mailto:yusufmahirnartok@gmail.com?subject=[GitHub]%20Advanced_Data_Analytics_Coursework%20Code)
 <br />
 University of Edinburgh
 <br />
